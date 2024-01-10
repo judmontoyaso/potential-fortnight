@@ -1,0 +1,7 @@
+.DS_Store
+.ipynb_checkpoints
+**/.DS_Store
+__pycache__/
+.Rhistory
+fastapi-test/
+Lib/
